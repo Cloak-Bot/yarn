@@ -429,7 +429,7 @@ CLASS net/minecraft/class_2248 net/minecraft/block/Block
 		ARG 2 world
 		ARG 3 pos
 		ARG 4 player
-	METHOD method_9607 shouldDrawSide (Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;Lnet/minecraft/class_2350;)Z
+	METHOD method_9607 jjj (Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;Lnet/minecraft/class_2350;)Z
 		ARG 0 state
 		ARG 1 view
 		ARG 2 pos

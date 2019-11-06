@@ -467,6 +467,6 @@ CLASS net/minecraft/class_2248 net/minecraft/block/Block
 		ARG 3 pos
 		ARG 4 oldState
 		ARG 5 moved
-	METHOD method_9616 canReplace (Lnet/minecraft/class_2680;Lnet/minecraft/class_1750;)Z
+	METHOD method_9616 ee (Lnet/minecraft/class_2680;Lnet/minecraft/class_1750;)Z
 		ARG 1 state
 		ARG 2 ctx

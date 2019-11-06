@@ -405,7 +405,7 @@ CLASS net/minecraft/class_2248 net/minecraft/block/Block
 		ARG 3 world
 		ARG 4 pos
 	METHOD method_9595 getStateFactory ()Lnet/minecraft/class_2689;
-	METHOD method_9597 getMaterial (Lnet/minecraft/class_2680;)Lnet/minecraft/class_3614;
+	METHOD method_9597 aaa (Lnet/minecraft/class_2680;)Lnet/minecraft/class_3614;
 		ARG 1 state
 	METHOD method_9598 rotate (Lnet/minecraft/class_2680;Lnet/minecraft/class_2470;)Lnet/minecraft/class_2680;
 		ARG 1 state

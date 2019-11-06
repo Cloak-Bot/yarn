@@ -121,7 +121,7 @@ CLASS net/minecraft/class_2248 net/minecraft/block/Block
 	METHOD method_9498 hasComparatorOutput (Lnet/minecraft/class_2680;)Z
 		ARG 1 state
 	METHOD method_9499 getSlipperiness ()F
-	METHOD method_9500 isAir (Lnet/minecraft/class_2680;)Z
+	METHOD method_9500 qqqq (Lnet/minecraft/class_2680;)Z
 		ARG 1 state
 	METHOD method_9501 isFaceFullSquare (Lnet/minecraft/class_265;Lnet/minecraft/class_2350;)Z
 		ARG 0 shape

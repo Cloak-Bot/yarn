@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_4459 net/amar/foo/Bar
+	FIELD field_20306 aaa Z
 	METHOD method_21665 asdf ()V

@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_4459 net/amar/foo/Bar
+	METHOD method_21665 asdf ()V

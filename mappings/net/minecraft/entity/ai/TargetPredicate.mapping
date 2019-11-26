@@ -1,5 +1,5 @@
 CLASS net/minecraft/class_4051 net/minecraft/entity/ai/TargetPredicate
-	FIELD field_18092 DEFAULT Lnet/minecraft/class_4051;
+	FIELD field_18092 aa Lnet/minecraft/class_4051;
 	FIELD field_18093 baseMaxDistance D
 	FIELD field_18094 includeInvulnerable Z
 	FIELD field_18095 includeTeammates Z

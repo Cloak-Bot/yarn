@@ -63,7 +63,7 @@ CLASS net/minecraft/class_2248 net/minecraft/block/Block
 	FIELD field_10640 collidable Z
 	FIELD field_10641 randomTicks Z
 	FIELD field_10642 translationKey Ljava/lang/String;
-	FIELD field_10643 soundGroup Lnet/minecraft/class_2498;
+	FIELD field_10643 aaa Lnet/minecraft/class_2498;
 	FIELD field_10644 FACINGS [Lnet/minecraft/class_2350;
 	FIELD field_10645 dynamicBounds Z
 	FIELD field_10646 defaultState Lnet/minecraft/class_2680;

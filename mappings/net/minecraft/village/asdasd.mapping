@@ -5,7 +5,7 @@ CLASS net/minecraft/class_4157 net/minecraft/village/asdasd
 	FIELD field_18499 updateListener Ljava/lang/Runnable;
 	FIELD field_19226 valid Z
 	METHOD <init> (Ljava/lang/Runnable;)V
-		ARG 1 updateListener
+		ARG 1 cc
 	METHOD method_19145 remove (Lnet/minecraft/class_2338;)V
 		ARG 1 pos
 	METHOD method_19146 add (Lnet/minecraft/class_2338;Lnet/minecraft/class_4158;)V

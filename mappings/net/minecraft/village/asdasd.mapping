@@ -8,7 +8,7 @@ CLASS net/minecraft/class_4157 net/minecraft/village/asdasd
 		ARG 1 cc
 	METHOD method_19145 remove (Lnet/minecraft/class_2338;)V
 		ARG 1 pos
-	METHOD method_19146 add (Lnet/minecraft/class_2338;Lnet/minecraft/class_4158;)V
+	METHOD method_19146 aa (Lnet/minecraft/class_2338;Lnet/minecraft/class_4158;)V
 	METHOD method_19147 test (Lnet/minecraft/class_2338;Ljava/util/function/Predicate;)Z
 		ARG 1 pos
 		ARG 2 predicate

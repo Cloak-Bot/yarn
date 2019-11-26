@@ -101,7 +101,7 @@ CLASS net/minecraft/class_1921 net/minecraft/client/render/RenderLayer
 	METHOD method_23574 getEndPortal (I)Lnet/minecraft/class_1921;
 		ARG 0 layer
 	METHOD method_23576 getEntityCutout (Lnet/minecraft/class_2960;)Lnet/minecraft/class_1921;
-	METHOD method_23577 getSolid ()Lnet/minecraft/class_1921;
+	METHOD method_23577 ll ()Lnet/minecraft/class_1921;
 	METHOD method_23578 getEntityCutoutNoCull (Lnet/minecraft/class_2960;)Lnet/minecraft/class_1921;
 	METHOD method_23579 getCutoutMipped ()Lnet/minecraft/class_1921;
 	METHOD method_23580 getEntityTranslucent (Lnet/minecraft/class_2960;)Lnet/minecraft/class_1921;

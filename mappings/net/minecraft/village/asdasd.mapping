@@ -19,5 +19,6 @@ CLASS net/minecraft/class_4157 net/minecraft/village/asdasd
 		ARG 1 pos
 	METHOD method_20350 add (Lnet/minecraft/class_4156;)Z
 		ARG 1 poi
+		ARG 0 foobar
 	METHOD method_20353 updatePointsOfInterest (Ljava/util/function/Consumer;)V
 	METHOD method_20395 clear ()V

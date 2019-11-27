@@ -12,6 +12,6 @@ CLASS net/minecraft/class_247 net/minecraft/util/BooleanBiFunction
 	FIELD field_16894 NOT_FIRST Lnet/minecraft/class_247;
 	FIELD field_16895 TRUE Lnet/minecraft/class_247;
 	FIELD field_16896 AND Lnet/minecraft/class_247;
-	FIELD field_16897 FALSE Lnet/minecraft/class_247;
+	FIELD field_16897 okok Lnet/minecraft/class_247;
 	FIELD field_16898 NOT_SECOND Lnet/minecraft/class_247;
 	FIELD field_16899 CAUSED_BY Lnet/minecraft/class_247;

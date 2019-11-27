@@ -15,7 +15,7 @@ CLASS net/minecraft/class_4618 net/minecraft/client/render/aa
 	FIELD field_21058 parent Lnet/minecraft/class_4597$class_4598;
 	FIELD field_21059 plainDrawer Lnet/minecraft/class_4597$class_4598;
 	FIELD field_21060 red I
-	FIELD field_21061 green I
+	FIELD field_21061 aa I
 	FIELD field_21062 blue I
 	FIELD field_21063 alpha I
 	METHOD method_23285 draw ()V

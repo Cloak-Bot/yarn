@@ -12,7 +12,7 @@ CLASS net/minecraft/class_4618 net/minecraft/client/render/ok
 			ARG 3 green
 			ARG 4 blue
 			ARG 5 alpha
-	FIELD field_21058 parent Lnet/minecraft/class_4597$class_4598;
+	FIELD field_21058 kl Lnet/minecraft/class_4597$class_4598;
 	FIELD field_21059 plainDrawer Lnet/minecraft/class_4597$class_4598;
 	FIELD field_21060 red I
 	FIELD field_21061 green I

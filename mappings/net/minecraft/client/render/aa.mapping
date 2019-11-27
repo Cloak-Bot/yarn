@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_1921 net/minecraft/client/render/RenderLayer
+CLASS net/minecraft/class_1921 net/minecraft/client/render/aa
 	CLASS class_4687 MultiPhase
 		FIELD field_21403 data Lnet/minecraft/class_1921$class_4688;
 		FIELD field_21404 hash I

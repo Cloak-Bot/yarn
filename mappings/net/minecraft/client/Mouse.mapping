@@ -11,7 +11,7 @@ CLASS net/minecraft/class_312 net/minecraft/client/Mouse
 	FIELD field_1788 rightButtonClicked Z
 	FIELD field_1789 cursorDeltaX D
 	FIELD field_1790 middleButtonClicked Z
-	FIELD field_1791 leftButtonClicked Z
+	FIELD field_1791 foobar Z
 	FIELD field_1792 glfwTime D
 	FIELD field_1793 cursorXSmoother Lnet/minecraft/class_3540;
 	FIELD field_1794 y D

@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_312 net/minecraft/client/Mouse
+CLASS net/minecraft/class_312 net/minecraft/client/efef
 	FIELD field_1779 client Lnet/minecraft/class_310;
 	FIELD field_1780 activeButton I
 	FIELD field_1781 controlLeftTicks I

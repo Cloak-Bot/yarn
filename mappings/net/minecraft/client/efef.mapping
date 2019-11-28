@@ -9,7 +9,7 @@ CLASS net/minecraft/class_312 net/minecraft/client/efef
 	FIELD field_1786 eventDeltaWheel D
 	FIELD field_1787 cursorDeltaY D
 	FIELD field_1788 rightButtonClicked Z
-	FIELD field_1789 cursorDeltaX D
+	FIELD field_1789 qq D
 	FIELD field_1790 middleButtonClicked Z
 	FIELD field_1791 foobar Z
 	FIELD field_1792 glfwTime D

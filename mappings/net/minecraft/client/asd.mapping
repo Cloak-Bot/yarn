@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_3799 net/minecraft/client/MinecraftClientGame
+CLASS net/minecraft/class_3799 net/minecraft/client/asd
 	CLASS class_3800 PerformanceMetricsImpl
 		FIELD field_16758 sampleCount I
 		FIELD field_16759 averageTime I

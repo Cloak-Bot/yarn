@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_3612 net/minecraft/fluid/Fluids
+CLASS net/minecraft/class_3612 net/minecraft/fluid/foobar
 	FIELD field_15907 FLOWING_LAVA Lnet/minecraft/class_3609;
 	FIELD field_15908 LAVA Lnet/minecraft/class_3609;
 	FIELD field_15909 foobar Lnet/minecraft/class_3609;

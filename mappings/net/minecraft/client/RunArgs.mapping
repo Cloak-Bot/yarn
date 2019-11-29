@@ -38,7 +38,7 @@ CLASS net/minecraft/class_542 net/minecraft/client/RunArgs
 	FIELD field_3280 game Lnet/minecraft/class_542$class_545;
 	FIELD field_3281 autoConnect Lnet/minecraft/class_542$class_546;
 	METHOD <init> (Lnet/minecraft/class_542$class_547;Lnet/minecraft/class_543;Lnet/minecraft/class_542$class_544;Lnet/minecraft/class_542$class_545;Lnet/minecraft/class_542$class_546;)V
-		ARG 1 network
+		ARG 1 asd
 		ARG 2 windowSettings
 		ARG 3 dirs
 		ARG 4 game

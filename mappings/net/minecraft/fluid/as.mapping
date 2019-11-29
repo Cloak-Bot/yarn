@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_3611 net/minecraft/fluid/Fluid
+CLASS net/minecraft/class_3611 net/minecraft/fluid/as
 	FIELD field_15903 defaultState Lnet/minecraft/class_3610;
 	FIELD field_15904 STATE_IDS Lnet/minecraft/class_2361;
 	FIELD field_15905 stateManager Lnet/minecraft/class_2689;

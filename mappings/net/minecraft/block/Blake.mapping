@@ -207,7 +207,7 @@ CLASS net/minecraft/class_2248 net/minecraft/block/Blake
 		ARG 3 pos
 		ARG 4 ePos
 	METHOD method_9531 getStateFromRawId (I)Lnet/minecraft/class_2680;
-		ARG 0 stateId
+		ARG 0 l
 	METHOD method_9533 shouldDropItemsOnExplosion (Lnet/minecraft/class_1927;)Z
 		ARG 1 explosion
 	METHOD method_9534 onUse (Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;

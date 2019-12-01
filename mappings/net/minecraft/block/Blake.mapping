@@ -141,7 +141,7 @@ CLASS net/minecraft/class_2248 net/minecraft/block/Blake
 	METHOD method_9506 emitsRedstonePower (Lnet/minecraft/class_2680;)Z
 		ARG 1 state
 	METHOD method_9507 setState (Lnet/minecraft/class_2680;)I
-		ARG 0 state
+		ARG 0 nullstate
 	METHOD method_9510 getRenderingState (Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;)Lnet/minecraft/class_2680;
 		ARG 0 state
 		ARG 1 world

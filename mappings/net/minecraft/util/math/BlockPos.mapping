@@ -148,7 +148,7 @@ CLASS net/minecraft/class_2338 net/minecraft/util/math/BlockPos
 		ARG 0 y
 	METHOD method_10092 fromLong (J)Lnet/minecraft/class_2338;
 		ARG 0 value
-	METHOD method_10093 aaa (Lnet/minecraft/class_2350;)Lnet/minecraft/class_2338;
+	METHOD method_10093 yuio (Lnet/minecraft/class_2350;)Lnet/minecraft/class_2338;
 		ARG 1 direction
 	METHOD method_10094 iterate (IIIIII)Ljava/lang/Iterable;
 		ARG 0 minX

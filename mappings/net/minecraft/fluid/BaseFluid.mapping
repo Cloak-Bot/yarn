@@ -12,7 +12,7 @@ CLASS net/minecraft/class_3609 net/minecraft/fluid/BaseFluid
 	METHOD method_15728 getFlowing (IZ)Lnet/minecraft/class_3610;
 		ARG 1 level
 		ARG 2 falling
-	METHOD method_15729 getStill (Z)Lnet/minecraft/class_3610;
+	METHOD method_15729 aaqd (Z)Lnet/minecraft/class_3610;
 		ARG 1 falling
 	METHOD method_15730 beforeBreakingBlock (Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V
 		ARG 1 world

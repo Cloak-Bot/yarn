@@ -16,7 +16,7 @@ CLASS net/minecraft/class_3611 net/minecraft/fluid/Fluid
 		ARG 1 world
 		ARG 2 pos
 		ARG 3 state
-		ARG 0 zwarduo
+		ARG 0 zwarduohh
 	METHOD method_15783 getStateManager ()Lnet/minecraft/class_2689;
 	METHOD method_15784 getBlastResistance ()F
 	METHOD method_15785 getDefaultState ()Lnet/minecraft/class_3610;
